@@ -12,4 +12,9 @@
 </div>
 </body>
 </html>
+
 # gamehappymatchhtml5
+
+Happy Match adalah game mencocokkan 3 gambar yang sama dengan grafis yang keren dan mudah digunakan. Pemain hanya perlu menggeser jari mereka untuk menghubungkan tiga atau lebih hewan kecil dengan warna yang sama secara horizontal dan vertikal untuk menghancurkannya. Kemudian menyelesaikan target eliminasi yang ditentukan untuk setiap level untuk melewati level tersebut.
+
+https://www.labkom99.com/2021/01/membuat-game-happy-match-keren-dengan.html
